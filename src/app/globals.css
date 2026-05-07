@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+* { box-sizing: border-box; }
+
+html, body {
+  background-color: #050508;
+  color: #FFFFFF;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #050508; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.22); }
+
+/* Prose inside markdown renders */
+.prose-vault {
+  @apply text-text-secondary text-sm leading-relaxed;
+}
+.prose-vault h1, .prose-vault h2, .prose-vault h3 {
+  @apply text-text-primary font-semibold mb-2 mt-4;
+}
+.prose-vault table { @apply w-full text-xs; }
+.prose-vault th { @apply text-text-tertiary font-medium pb-1 border-b border-border text-left; }
+.prose-vault td { @apply py-1 border-b border-border/50; }
+.prose-vault p  { @apply mb-2; }
+.prose-vault ul { @apply list-disc list-inside space-y-1; }
+
+/* Glass card */
+.glass {
+  background: rgba(22, 28, 38, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(30, 39, 51, 0.8);
+}
+
+/* Glow on focus */
+.glow-blue:focus { box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.3); outline: none; }
+
+.glass-panel {
+  backdrop-filter: blur(22px);
+  -webkit-backdrop-filter: blur(22px);
+}
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  background: #000AFF;
+  padding: 0.625rem 1rem;
+  color: #fff;
+  font-size: 0.875rem;
+  font-weight: 600;
+  box-shadow: 0 0 24px rgba(0,10,255,0.35);
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  border-color: rgba(255,255,255,0.22);
+  box-shadow: 0 0 34px rgba(0,10,255,0.5);
+}
+
+.btn-danger {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(244,63,94,0.35);
+  background: rgba(244,63,94,0.12);
+  padding: 0.625rem 1rem;
+  color: #fecdd3;
+  font-size: 0.875rem;
+  font-weight: 600;
+}

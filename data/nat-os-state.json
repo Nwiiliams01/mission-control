@@ -1,0 +1,1965 @@
+{
+  "updatedAt": "2026-05-07T20:14:19.367Z",
+  "state": {
+    "goals": [
+      {
+        "id": "goal-million",
+        "unit": "CAD",
+        "title": "$1M+ income path",
+        "status": "Active",
+        "target": 30000,
+        "current": 5200,
+        "category": "AI Systems",
+        "deadline": "2027-01-01",
+        "lifeAreaId": "wealth",
+        "milestones": [
+          {
+            "id": "gm-1",
+            "done": true,
+            "title": "Revenue dashboard active"
+          },
+          {
+            "id": "gm-2",
+            "done": false,
+            "title": "Consistent lead flow established"
+          },
+          {
+            "id": "gm-3",
+            "done": false,
+            "title": "$30K/month run rate achieved"
+          }
+        ],
+        "description": "Track the strategic path toward $1M+ income by January 1, 2027 through Get Right, Luxe, Nexora, brand, and systems.",
+        "linkedTasks": [
+          "Follow up with 20+ sellers",
+          "Build lead scoring AI model"
+        ],
+        "metricLabel": "Monthly revenue pace",
+        "linkedHabits": [
+          "Real estate calls completed",
+          "Content posted",
+          "Study completed"
+        ]
+      },
+      {
+        "id": "goal-luxe-calls",
+        "unit": "calls",
+        "title": "Luxe daily seller volume",
+        "status": "Active",
+        "target": 50,
+        "current": 14,
+        "category": "Luxe Property Solutions",
+        "deadline": "2026-05-10",
+        "lifeAreaId": "real-estate",
+        "milestones": [
+          {
+            "id": "gl-1",
+            "done": true,
+            "title": "Pull daily seller list"
+          },
+          {
+            "id": "gl-2",
+            "done": false,
+            "title": "Make 50 seller calls this week"
+          },
+          {
+            "id": "gl-3",
+            "done": false,
+            "title": "Book 3 qualified appointments"
+          }
+        ],
+        "description": "Build repeatable acquisition momentum through daily seller conversations and fast follow-up.",
+        "linkedTasks": [
+          "Follow up with 20+ sellers",
+          "Luxe offer positioning"
+        ],
+        "metricLabel": "Seller conversations this week",
+        "linkedHabits": [
+          "Real estate calls completed",
+          "Lead follow-ups completed"
+        ]
+      },
+      {
+        "id": "goal-proof-content",
+        "unit": "posts",
+        "title": "Proof-of-work content rhythm",
+        "status": "Active",
+        "target": 5,
+        "current": 2,
+        "category": "Personal Brand",
+        "deadline": "2026-05-10",
+        "lifeAreaId": "brand",
+        "milestones": [
+          {
+            "id": "gc-1",
+            "done": false,
+            "title": "Define weekly proof themes"
+          },
+          {
+            "id": "gc-2",
+            "done": false,
+            "title": "Publish 5 posts this week"
+          },
+          {
+            "id": "gc-3",
+            "done": false,
+            "title": "Repurpose one long note into short-form assets"
+          }
+        ],
+        "description": "Turn daily execution into clean public evidence: business moves, training, calls, lessons, and systems built.",
+        "linkedTasks": [
+          "Post proof-of-work content recap"
+        ],
+        "metricLabel": "Posts this week",
+        "linkedHabits": [
+          "Content posted"
+        ]
+      }
+    ],
+    "intel": [
+      {
+        "id": "i1",
+        "why": "This supports the AI dashboard + agent offer stack.",
+        "notes": "Useful for Nexora positioning.",
+        "title": "AI agents are moving from chat to workflow execution",
+        "source": "Market scan",
+        "summary": "Small businesses are starting to expect AI to complete operational work, not just answer questions.",
+        "category": "AI News",
+        "dateAdded": "2026-05-06",
+        "importance": "Hot",
+        "sourceLink": "",
+        "actionNeeded": true
+      },
+      {
+        "id": "i2",
+        "why": "Sharper geography improves call lists.",
+        "notes": "Track by zip.",
+        "title": "Memphis inventory pockets remain useful for distressed outreach",
+        "source": "Local market note",
+        "summary": "Older SFH stock and motivated-seller conditions support Luxe’s current buy box.",
+        "category": "Real Estate Intel",
+        "dateAdded": "2026-05-06",
+        "importance": "Notable",
+        "sourceLink": "",
+        "actionNeeded": false
+      },
+      {
+        "id": "i3",
+        "why": "This reinforces the Get Right 365 positioning.",
+        "notes": "Use in offer copy.",
+        "title": "Hybrid fitness coaching keeps selling when accountability is clear",
+        "source": "Get Right review",
+        "summary": "Clients respond to simple plans plus direct accountability, not more complexity.",
+        "category": "Fitness Business Intel",
+        "dateAdded": "2026-05-02",
+        "importance": "Reference",
+        "sourceLink": "",
+        "actionNeeded": false
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-1778112137508-66cc96718a3148",
+        "title": "New Note",
+        "category": "Strategy",
+        "content": "",
+        "updatedAt": "2026-05-07T00:02:17.508Z"
+      },
+      {
+        "id": "note-1778112137291-8f694b00c4c4b8",
+        "title": "New Note",
+        "category": "Strategy",
+        "content": "",
+        "updatedAt": "2026-05-07T00:02:17.291Z"
+      },
+      {
+        "id": "note-1778112136974-dd5ebda5b861e",
+        "title": "New Note",
+        "category": "Strategy",
+        "content": "",
+        "updatedAt": "2026-05-07T00:02:16.974Z"
+      },
+      {
+        "id": "note-1778112136507-c21aeb6b4e1698",
+        "title": "New Note",
+        "category": "Strategy",
+        "content": "",
+        "updatedAt": "2026-05-07T00:02:16.507Z"
+      },
+      {
+        "id": "note-1778112131809-bff7f89c3cd89",
+        "title": "New Note",
+        "category": "Strategy",
+        "content": "",
+        "updatedAt": "2026-05-07T00:02:11.809Z"
+      },
+      {
+        "id": "n1",
+        "title": "Strategic Focus",
+        "content": "# Strategic Focus - May 2026\n\nBuild the system. Run the play.\n\n## Luxe Property Solutions\n- Seller conversations are the needle mover.\n- Track MCTP on every lead.\n- Push offers daily.\n\n## Get Right Fitness\n- Keep the offer simple.\n- Sell accountability and structure.\n- Use proof-of-work content.\n\n## AI Systems\n- Build tools that save time this week, not someday.",
+        "category": "Strategy",
+        "updatedAt": "2026-05-06T12:34:03.967Z"
+      },
+      {
+        "id": "n2",
+        "title": "Content Ideas",
+        "content": "Proof-of-work themes: discipline, calls made, training consistency, systems built, lessons learned.",
+        "category": "Content Ideas",
+        "updatedAt": "2026-05-02T12:00:00.000Z"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "t1",
+        "notes": "",
+        "title": "Build lead scoring AI model",
+        "status": "Backlog",
+        "dueDate": "2026-05-10",
+        "category": "AI Systems",
+        "priority": "High",
+        "createdDate": "2026-05-06",
+        "description": "Use behaviour and seller data to prioritise outreach."
+      },
+      {
+        "id": "t2",
+        "notes": "",
+        "title": "Follow up with 20+ sellers",
+        "status": "In Progress",
+        "dueDate": "2026-05-04",
+        "category": "Luxe Property Solutions",
+        "priority": "High",
+        "createdDate": "2026-05-06",
+        "description": "Push warm Luxe leads into booked calls."
+      },
+      {
+        "id": "t3",
+        "notes": "",
+        "title": "Client check-in calls",
+        "status": "In Progress",
+        "dueDate": "2026-05-05",
+        "category": "Get Right Fitness",
+        "priority": "Medium",
+        "createdDate": "2026-05-06",
+        "description": "Weekly Get Right accountability touchpoints."
+      },
+      {
+        "id": "t4",
+        "notes": "",
+        "title": "Luxe offer positioning",
+        "status": "Waiting / Blocked",
+        "blocker": "Need seller data",
+        "dueDate": "2026-05-08",
+        "category": "Luxe Property Solutions",
+        "priority": "High",
+        "createdDate": "2026-05-06",
+        "description": "Clarify cash offer and creative finance angles."
+      },
+      {
+        "id": "t5",
+        "notes": "",
+        "title": "Weekly review and planning",
+        "status": "Done",
+        "dueDate": "2026-05-03",
+        "category": "Personal",
+        "priority": "Low",
+        "createdDate": "2026-05-06",
+        "description": "Review results and set next week priorities."
+      }
+    ],
+    "agents": [
+      {
+        "id": "dealcloser",
+        "name": "DealCloser",
+        "role": "Real Estate Seller Negotiation Agent",
+        "model": "GPT-powered workflow",
+        "notes": "Strongest on motivation and price gaps.",
+        "tasks": [],
+        "status": "online",
+        "activity": [
+          "Drafted SMS for Memphis seller",
+          "Handled price objection",
+          "Prepared follow-up cadence"
+        ],
+        "lastActive": "2 min ago",
+        "description": "Structures seller conversations, objection handling, creative finance angles, and offer copy for Luxe Property Solutions.",
+        "capabilities": [
+          "Draft seller SMS",
+          "Draft seller emails",
+          "Analyse motivation",
+          "Suggest offer strategy",
+          "Handle objections",
+          "Generate follow-up scripts"
+        ]
+      },
+      {
+        "id": "dealgenie",
+        "name": "Deal Genie",
+        "role": "Repair Estimator + Deal Analysis Agent",
+        "model": "GPT-powered calculator workflow",
+        "notes": "Needs clean comp inputs.",
+        "tasks": [],
+        "status": "busy",
+        "activity": [
+          "Scored Memphis lead",
+          "Calculated spread range"
+        ],
+        "lastActive": "15 min ago",
+        "description": "Estimates repairs, wholesale spreads, margins, and property deal data.",
+        "capabilities": [
+          "Repair estimation",
+          "Profit margin calculation",
+          "ARV support",
+          "Buy box scoring",
+          "Deal summary creation"
+        ]
+      },
+      {
+        "id": "coachos",
+        "name": "CoachOS",
+        "role": "Get Right Fitness Client Success Agent",
+        "model": "GPT-powered coaching assistant",
+        "notes": "Keep voice calm and direct.",
+        "tasks": [],
+        "status": "online",
+        "activity": [
+          "Drafted client check-in prompt",
+          "Summarised habit trend"
+        ],
+        "lastActive": "1 min ago",
+        "description": "Supports check-ins, habit tracking, coaching notes, accountability messages, and program delivery ideas.",
+        "capabilities": [
+          "Draft client check-ins",
+          "Create accountability messages",
+          "Summarise progress",
+          "Suggest actions",
+          "Organise Everfit notes"
+        ]
+      },
+      {
+        "id": "contentforge",
+        "name": "ContentForge",
+        "role": "Personal Brand + Social Content Agent",
+        "model": "GPT-powered content strategist",
+        "notes": "Use sharp, non-fluffy language.",
+        "tasks": [],
+        "status": "online",
+        "activity": [
+          "Built 5 reel hooks",
+          "Outlined proof-of-work carousel"
+        ],
+        "lastActive": "3 min ago",
+        "description": "Turns daily execution into hooks, captions, carousels, newsletters, and proof-of-work posts.",
+        "capabilities": [
+          "Generate hooks",
+          "Repurpose notes",
+          "Create captions",
+          "Build carousel outlines",
+          "Draft newsletters"
+        ]
+      },
+      {
+        "id": "strategychief",
+        "name": "Strategy Chief",
+        "role": "Executive Decision Support Agent",
+        "model": "GPT-powered strategy assistant",
+        "notes": "Use for weekly command review.",
+        "tasks": [],
+        "status": "offline",
+        "activity": [
+          "Reviewed 90-day priorities"
+        ],
+        "lastActive": "8 hours ago",
+        "description": "Reviews big decisions across business, fitness, real estate, systems, and long-term goals.",
+        "capabilities": [
+          "Decision summaries",
+          "Pros and cons",
+          "Weekly reviews",
+          "Goal alignment",
+          "Risk analysis"
+        ]
+      },
+      {
+        "id": "nexorabuilder",
+        "name": "Nexora Builder",
+        "role": "Nexora AI Systems + Offer Build Agent",
+        "model": "GPT-powered build strategist",
+        "notes": "Route Nexora, AI agency, automation, dashboard, website, SaaS, and client implementation work here.",
+        "tasks": [],
+        "status": "online",
+        "activity": [
+          "Loaded Nexora offer stack",
+          "Prepared AI audit workflow"
+        ],
+        "lastActive": "just now",
+        "description": "Builds Nexora AI offers, dashboards, automations, client audits, website plans, SaaS workflows, and implementation briefs for small-business AI systems.",
+        "capabilities": [
+          "Draft AI audit plans",
+          "Structure dashboard builds",
+          "Map automation workflows",
+          "Package Nexora offers",
+          "Create client implementation briefs"
+        ]
+      }
+    ],
+    "clients": [
+      {
+        "id": "c1",
+        "name": "Get Right Fitness Client Base",
+        "notes": "Coaching revenue target line.",
+        "status": "Active",
+        "category": "Fitness",
+        "startDate": "2026-04-01",
+        "monthlyValue": 1500
+      },
+      {
+        "id": "c2",
+        "name": "Luxe Wholesale Pipeline",
+        "notes": "Expected assignment-fee pipeline.",
+        "status": "Pending",
+        "category": "Real Estate",
+        "startDate": "2026-04-15",
+        "monthlyValue": 2500
+      },
+      {
+        "id": "c3",
+        "name": "Nexora AI Build Retainer",
+        "notes": "Automation and dashboard work.",
+        "status": "Pending",
+        "category": "AI",
+        "startDate": "2026-05-01",
+        "monthlyValue": 1200
+      }
+    ],
+    "version": 1,
+    "activity": [
+      {
+        "id": "activity-1778184858870-a6c5517725ac1",
+        "type": "daily-reset",
+        "title": "Daily reset completed",
+        "detail": "29% archived from 2026-05-06. 4 priorities carried forward.",
+        "time": "2:14 p.m."
+      },
+      {
+        "id": "activity-1778112137508-7ccf1069fee888",
+        "type": "note",
+        "title": "Note created",
+        "detail": "New Note",
+        "time": "6:02 p.m."
+      },
+      {
+        "id": "activity-1778112137291-b0fd17e40a617",
+        "type": "note",
+        "title": "Note created",
+        "detail": "New Note",
+        "time": "6:02 p.m."
+      },
+      {
+        "id": "activity-1778112136974-ec73a1f643e0b8",
+        "type": "note",
+        "title": "Note created",
+        "detail": "New Note",
+        "time": "6:02 p.m."
+      },
+      {
+        "id": "activity-1778112136508-ec8d4422c4659",
+        "type": "note",
+        "title": "Note created",
+        "detail": "New Note",
+        "time": "6:02 p.m."
+      },
+      {
+        "id": "activity-1778112131810-c7e7b4a56af27",
+        "type": "note",
+        "title": "Note created",
+        "detail": "New Note",
+        "time": "6:02 p.m."
+      },
+      {
+        "id": "activity-1778106933287-69851e3ad9c31",
+        "type": "calendar",
+        "title": "Google Calendar imported",
+        "detail": "28 events synced into Meetings.",
+        "time": "4:35 p.m."
+      },
+      {
+        "id": "activity-1778091083647-f0e0b30d1ae9d8",
+        "type": "calendar",
+        "title": "Google Calendar imported",
+        "detail": "28 events synced into Meetings.",
+        "time": "12:11 p.m."
+      },
+      {
+        "id": "activity-1778088392693-480effb4f17b9",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit reopened",
+        "detail": "Mobility completed"
+      },
+      {
+        "id": "activity-1778088392093-6813f68abe9f8",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit reopened",
+        "detail": "Nutrition followed"
+      },
+      {
+        "id": "activity-1778088391394-45ac4bc315af88",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit reopened",
+        "detail": "Client check-ins completed"
+      },
+      {
+        "id": "activity-1778088390594-14f76c2476d1a8",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit reopened",
+        "detail": "Real estate calls completed"
+      },
+      {
+        "id": "activity-1778088389977-f3bf58797c79f8",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit reopened",
+        "detail": "Lead follow-ups completed"
+      },
+      {
+        "id": "activity-1778088388744-f50cd732c4ad88",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit reopened",
+        "detail": "Content posted"
+      },
+      {
+        "id": "activity-1778088387561-ae8b9b1d8acf6",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit reopened",
+        "detail": "Study completed"
+      },
+      {
+        "id": "activity-1778088386827-5321011be99258",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit reopened",
+        "detail": "Night shutdown completed"
+      },
+      {
+        "id": "activity-1778088382677-335be729b2dad8",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit completed",
+        "detail": "Night shutdown completed"
+      },
+      {
+        "id": "activity-1778088381877-724e6c64ffe8e8",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit completed",
+        "detail": "Content posted"
+      },
+      {
+        "id": "activity-1778088380928-d389684b7e6e3",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit completed",
+        "detail": "Real estate calls completed"
+      },
+      {
+        "id": "activity-1778088380060-cdc2908d6c3e78",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit completed",
+        "detail": "Client check-ins completed"
+      },
+      {
+        "id": "activity-1778088378479-57fe0bfefca2e8",
+        "time": "11:26 a.m.",
+        "type": "habit",
+        "title": "Habit completed",
+        "detail": "Cardio / steps completed"
+      },
+      {
+        "id": "a1",
+        "time": "7:20 AM",
+        "type": "agent",
+        "title": "DealCloser task sent",
+        "detail": "Seller follow-up script for Memphis lead"
+      },
+      {
+        "id": "a2",
+        "time": "8:04 AM",
+        "type": "project",
+        "title": "Task moved to In Progress",
+        "detail": "Client check-in calls"
+      },
+      {
+        "id": "a3",
+        "time": "7:42 AM",
+        "type": "intel",
+        "title": "Intel item saved",
+        "detail": "SMB AI adoption trend"
+      },
+      {
+        "id": "a4",
+        "time": "6:15 AM",
+        "type": "fitness",
+        "title": "Workout completed",
+        "detail": "Upper Body Strength"
+      }
+    ],
+    "meetings": [
+      {
+        "id": "m3",
+        "date": "2026-05-04",
+        "time": "14:30",
+        "type": "Internal",
+        "notes": "",
+        "title": "AI Systems Planning",
+        "agenda": [
+          "Review bottlenecks",
+          "Pick one automation",
+          "Define output"
+        ],
+        "status": "Upcoming",
+        "outcome": "",
+        "category": "AI",
+        "duration": 60,
+        "attendees": "Nat",
+        "prepNotes": "Decide next dashboard automation.",
+        "actionItems": [],
+        "completedAgenda": [],
+        "completedActions": [],
+        "source": "local",
+        "syncStatus": "local-only"
+      },
+      {
+        "id": "m1",
+        "date": "2026-05-06",
+        "time": "09:00",
+        "type": "Call",
+        "notes": "",
+        "title": "Seller Call - Memphis Lead",
+        "agenda": [
+          "Build rapport",
+          "Confirm property condition",
+          "Discuss timeline",
+          "Anchor offer range"
+        ],
+        "status": "Upcoming",
+        "outcome": "Move toward offer.",
+        "category": "Real Estate",
+        "duration": 30,
+        "attendees": "Nat + Seller",
+        "prepNotes": "Confirm motivation, condition, timeline, and price.",
+        "actionItems": [
+          "Send follow-up SMS"
+        ],
+        "completedAgenda": [
+          "Build rapport"
+        ],
+        "completedActions": [],
+        "source": "local",
+        "syncStatus": "local-only"
+      },
+      {
+        "id": "google-50b4vl6qocjh022ve84trk2meu_20260506T150000Z",
+        "title": "X Marks the MAO",
+        "date": "2026-05-06",
+        "time": "09:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "X Marks the MAO is a live underwriting session where we comp properties, calculate the real MAO, and decide if the deal is treasure or trash.",
+        "status": "Completed",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "50b4vl6qocjh022ve84trk2meu_20260506T150000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "50b4vl6qocjh022ve84trk2meu",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NTBiNHZsNnFvY2poMDIydmU4NHRyazJtZXVfMjAyNjA1MDZUMTUwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/rSgmgplnG2S",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "m2",
+        "date": "2026-05-06",
+        "time": "11:30",
+        "type": "Zoom",
+        "notes": "",
+        "title": "Get Right Check-in Block",
+        "agenda": [
+          "Review training",
+          "Review nutrition",
+          "Set next action"
+        ],
+        "status": "Upcoming",
+        "outcome": "",
+        "category": "Fitness",
+        "duration": 45,
+        "attendees": "Nat + clients",
+        "prepNotes": "Review adherence, barriers, wins.",
+        "actionItems": [
+          "Update Everfit notes"
+        ],
+        "completedAgenda": [],
+        "completedActions": [],
+        "source": "local",
+        "syncStatus": "local-only"
+      },
+      {
+        "id": "google-35mg4ut3hp159nb84uh2270k81_20260506T190000Z",
+        "title": "Group Leader Live Meeting - Thomas Allen",
+        "date": "2026-05-06",
+        "time": "13:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Internal",
+        "category": "Real Estate",
+        "prepNotes": "",
+        "status": "Completed",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "35mg4ut3hp159nb84uh2270k81_20260506T190000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "35mg4ut3hp159nb84uh2270k81",
+        "googleUrl": "https://www.google.com/calendar/event?eid=MzVtZzR1dDNocDE1OW5iODR1aDIyNzBrODFfMjAyNjA1MDZUMTkwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-6sepgmndshjnmaquk4i7hrpktq_20260507T210000Z",
+        "title": "Rick & Zach Livestream",
+        "date": "2026-05-07",
+        "time": "15:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Other",
+        "prepNotes": "Zach & Rick Livestream",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "6sepgmndshjnmaquk4i7hrpktq_20260507T210000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "6sepgmndshjnmaquk4i7hrpktq",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NnNlcGdtbmRzaGpubWFxdWs0aTdocnBrdHFfMjAyNjA1MDdUMjEwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.youtube.com/@FlipWithRick/streams",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-1ri22r8or7aeggvgor49oj84jf_20260507T220000Z",
+        "title": "How To Wholesale Livestream",
+        "date": "2026-05-07",
+        "time": "16:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "The public live stream that everyone tunes into. Watch real wholesaling happen in real time: cold calls, contracts, comps, and closings.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "1ri22r8or7aeggvgor49oj84jf_20260507T220000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "1ri22r8or7aeggvgor49oj84jf",
+        "googleUrl": "https://www.google.com/calendar/event?eid=MXJpMjJyOG9yN2FlZ2d2Z29yNDlvajg0amZfMjAyNjA1MDdUMjIwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.youtube.com/@MaximilianDier/streams",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-7cn7jmsv7ls0637gb140erj4km_20260507T230000Z",
+        "title": "Wholesailors After Hours",
+        "date": "2026-05-07",
+        "time": "17:00",
+        "duration": 180,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Private continuation of the public How To Wholesale livestream with deeper strategy, scripts, and buy boxes.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "7cn7jmsv7ls0637gb140erj4km_20260507T230000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "7cn7jmsv7ls0637gb140erj4km",
+        "googleUrl": "https://www.google.com/calendar/event?eid=N2NuN2ptc3Y3bHMwNjM3Z2IxNDBlcmo0a21fMjAyNjA1MDdUMjMwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/CRhZpgkYpMv",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-2h7a0812u08ipce7bgskvk8t21_20260508T150000Z",
+        "title": "Office Hours",
+        "date": "2026-05-08",
+        "time": "09:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Drop in, meet with Max and the team, and get your wholesale questions answered.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "2h7a0812u08ipce7bgskvk8t21_20260508T150000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "2h7a0812u08ipce7bgskvk8t21",
+        "googleUrl": "https://www.google.com/calendar/event?eid=Mmg3YTA4MTJ1MDhpcGNlN2Jnc2t2azh0MjFfMjAyNjA1MDhUMTUwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/jxq8LsmyQVl",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-44ho7pu5sntqdffj207i60meqb_20260508T190000Z",
+        "title": "Group Leader Live Meeting - Thomas Allen",
+        "date": "2026-05-08",
+        "time": "13:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Internal",
+        "category": "Real Estate",
+        "prepNotes": "",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "44ho7pu5sntqdffj207i60meqb_20260508T190000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "44ho7pu5sntqdffj207i60meqb",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NDRobzdwdTVzbnRxZGZmajIwN2k2MG1lcWJfMjAyNjA1MDhUMTkwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-4i26fedc3f7ud5om9g5n2lgv7n_20260508T220000Z",
+        "title": "Closer's Club (Free Leads)",
+        "date": "2026-05-08",
+        "time": "16:00",
+        "duration": 120,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Master closing with live call review and free leads.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "4i26fedc3f7ud5om9g5n2lgv7n_20260508T220000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "4i26fedc3f7ud5om9g5n2lgv7n",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NGkyNmZlZGMzZjd1ZDVvbTlnNW4ybGd2N25fMjAyNjA1MDhUMjIwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/yCbMPfQ2kkR",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-2lee2hs57lm7l7lsjsmr8u10uh_20260511T150000Z",
+        "title": "Office Hours",
+        "date": "2026-05-11",
+        "time": "09:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Drop in, meet with Max and the team, and get your wholesale questions answered.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "2lee2hs57lm7l7lsjsmr8u10uh_20260511T150000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "2lee2hs57lm7l7lsjsmr8u10uh",
+        "googleUrl": "https://www.google.com/calendar/event?eid=MmxlZTJoczU3bG03bDdsc2pzbXI4dTEwdWhfMjAyNjA1MTFUMTUwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/jxq8LsmyQVl",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-4b5fedbv521nhlo0am2ck4i5h6_20260511T190000Z",
+        "title": "Group Leader Live Meeting - Thomas Allen",
+        "date": "2026-05-11",
+        "time": "13:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Internal",
+        "category": "Real Estate",
+        "prepNotes": "",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "4b5fedbv521nhlo0am2ck4i5h6_20260511T190000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "4b5fedbv521nhlo0am2ck4i5h6",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NGI1ZmVkYnY1MjFuaGxvMGFtMmNrNGk1aDZfMjAyNjA1MTFUMTkwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-6uf6pl0adaaqaoqbqfhe4079k1_20260512T210000Z",
+        "title": "Rick & Zach Livestream",
+        "date": "2026-05-12",
+        "time": "15:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Other",
+        "prepNotes": "Zach & Rick Livestream",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "6uf6pl0adaaqaoqbqfhe4079k1_20260512T210000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "6uf6pl0adaaqaoqbqfhe4079k1",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NnVmNnBsMGFkYWFxYW9xYnFmaGU0MDc5azFfMjAyNjA1MTJUMjEwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.youtube.com/@FlipWithRick/streams",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-4av2hbkmhh70bb48jqelvo97k3_20260512T220000Z",
+        "title": "How To Wholesale Livestream",
+        "date": "2026-05-12",
+        "time": "16:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "The public live stream that everyone tunes into. Watch real wholesaling happen in real time: cold calls, contracts, comps, and closings.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "4av2hbkmhh70bb48jqelvo97k3_20260512T220000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "4av2hbkmhh70bb48jqelvo97k3",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NGF2Mmhia21oaDcwYmI0OGpxZWx2bzk3azNfMjAyNjA1MTJUMjIwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.youtube.com/@MaximilianDier/streams",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-291jjqn8hffr0li9rs44i2k40n_20260512T230000Z",
+        "title": "Wholesailors After Hours",
+        "date": "2026-05-12",
+        "time": "17:00",
+        "duration": 180,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Private continuation of the public How To Wholesale livestream with deeper strategy, scripts, and buy boxes.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "291jjqn8hffr0li9rs44i2k40n_20260512T230000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "291jjqn8hffr0li9rs44i2k40n",
+        "googleUrl": "https://www.google.com/calendar/event?eid=MjkxampxbjhoZmZyMGxpOXJzNDRpMms0MG5fMjAyNjA1MTJUMjMwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/CRhZpgkYpMv",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-50b4vl6qocjh022ve84trk2meu_20260513T150000Z",
+        "title": "X Marks the MAO",
+        "date": "2026-05-13",
+        "time": "09:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "X Marks the MAO is a live underwriting session where we comp properties, calculate the real MAO, and decide if the deal is treasure or trash.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "50b4vl6qocjh022ve84trk2meu_20260513T150000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "50b4vl6qocjh022ve84trk2meu",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NTBiNHZsNnFvY2poMDIydmU4NHRyazJtZXVfMjAyNjA1MTNUMTUwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/rSgmgplnG2S",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-35mg4ut3hp159nb84uh2270k81_20260513T190000Z",
+        "title": "Group Leader Live Meeting - Thomas Allen",
+        "date": "2026-05-13",
+        "time": "13:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Internal",
+        "category": "Real Estate",
+        "prepNotes": "",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "35mg4ut3hp159nb84uh2270k81_20260513T190000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "35mg4ut3hp159nb84uh2270k81",
+        "googleUrl": "https://www.google.com/calendar/event?eid=MzVtZzR1dDNocDE1OW5iODR1aDIyNzBrODFfMjAyNjA1MTNUMTkwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-6sepgmndshjnmaquk4i7hrpktq_20260514T210000Z",
+        "title": "Rick & Zach Livestream",
+        "date": "2026-05-14",
+        "time": "15:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Other",
+        "prepNotes": "Zach & Rick Livestream",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "6sepgmndshjnmaquk4i7hrpktq_20260514T210000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "6sepgmndshjnmaquk4i7hrpktq",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NnNlcGdtbmRzaGpubWFxdWs0aTdocnBrdHFfMjAyNjA1MTRUMjEwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.youtube.com/@FlipWithRick/streams",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-1ri22r8or7aeggvgor49oj84jf_20260514T220000Z",
+        "title": "How To Wholesale Livestream",
+        "date": "2026-05-14",
+        "time": "16:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "The public live stream that everyone tunes into. Watch real wholesaling happen in real time: cold calls, contracts, comps, and closings.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "1ri22r8or7aeggvgor49oj84jf_20260514T220000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "1ri22r8or7aeggvgor49oj84jf",
+        "googleUrl": "https://www.google.com/calendar/event?eid=MXJpMjJyOG9yN2FlZ2d2Z29yNDlvajg0amZfMjAyNjA1MTRUMjIwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.youtube.com/@MaximilianDier/streams",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-7cn7jmsv7ls0637gb140erj4km_20260514T230000Z",
+        "title": "Wholesailors After Hours",
+        "date": "2026-05-14",
+        "time": "17:00",
+        "duration": 180,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Private continuation of the public How To Wholesale livestream with deeper strategy, scripts, and buy boxes.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "7cn7jmsv7ls0637gb140erj4km_20260514T230000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "7cn7jmsv7ls0637gb140erj4km",
+        "googleUrl": "https://www.google.com/calendar/event?eid=N2NuN2ptc3Y3bHMwNjM3Z2IxNDBlcmo0a21fMjAyNjA1MTRUMjMwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/CRhZpgkYpMv",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-2h7a0812u08ipce7bgskvk8t21_20260515T150000Z",
+        "title": "Office Hours",
+        "date": "2026-05-15",
+        "time": "09:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Drop in, meet with Max and the team, and get your wholesale questions answered.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "2h7a0812u08ipce7bgskvk8t21_20260515T150000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "2h7a0812u08ipce7bgskvk8t21",
+        "googleUrl": "https://www.google.com/calendar/event?eid=Mmg3YTA4MTJ1MDhpcGNlN2Jnc2t2azh0MjFfMjAyNjA1MTVUMTUwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/jxq8LsmyQVl",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-44ho7pu5sntqdffj207i60meqb_20260515T190000Z",
+        "title": "Group Leader Live Meeting - Thomas Allen",
+        "date": "2026-05-15",
+        "time": "13:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Internal",
+        "category": "Real Estate",
+        "prepNotes": "",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "44ho7pu5sntqdffj207i60meqb_20260515T190000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "44ho7pu5sntqdffj207i60meqb",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NDRobzdwdTVzbnRxZGZmajIwN2k2MG1lcWJfMjAyNjA1MTVUMTkwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-4i26fedc3f7ud5om9g5n2lgv7n_20260515T220000Z",
+        "title": "Closer's Club (Free Leads)",
+        "date": "2026-05-15",
+        "time": "16:00",
+        "duration": 120,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Master closing with live call review and free leads.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "4i26fedc3f7ud5om9g5n2lgv7n_20260515T220000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "4i26fedc3f7ud5om9g5n2lgv7n",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NGkyNmZlZGMzZjd1ZDVvbTlnNW4ybGd2N25fMjAyNjA1MTVUMjIwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/yCbMPfQ2kkR",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-2lee2hs57lm7l7lsjsmr8u10uh_20260518T150000Z",
+        "title": "Office Hours",
+        "date": "2026-05-18",
+        "time": "09:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Drop in, meet with Max and the team, and get your wholesale questions answered.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "2lee2hs57lm7l7lsjsmr8u10uh_20260518T150000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "2lee2hs57lm7l7lsjsmr8u10uh",
+        "googleUrl": "https://www.google.com/calendar/event?eid=MmxlZTJoczU3bG03bDdsc2pzbXI4dTEwdWhfMjAyNjA1MThUMTUwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/jxq8LsmyQVl",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-4b5fedbv521nhlo0am2ck4i5h6_20260518T190000Z",
+        "title": "Group Leader Live Meeting - Thomas Allen",
+        "date": "2026-05-18",
+        "time": "13:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Internal",
+        "category": "Real Estate",
+        "prepNotes": "",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "4b5fedbv521nhlo0am2ck4i5h6_20260518T190000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "4b5fedbv521nhlo0am2ck4i5h6",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NGI1ZmVkYnY1MjFuaGxvMGFtMmNrNGk1aDZfMjAyNjA1MThUMTkwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-6uf6pl0adaaqaoqbqfhe4079k1_20260519T210000Z",
+        "title": "Rick & Zach Livestream",
+        "date": "2026-05-19",
+        "time": "15:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Other",
+        "prepNotes": "Zach & Rick Livestream",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "6uf6pl0adaaqaoqbqfhe4079k1_20260519T210000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "6uf6pl0adaaqaoqbqfhe4079k1",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NnVmNnBsMGFkYWFxYW9xYnFmaGU0MDc5azFfMjAyNjA1MTlUMjEwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.youtube.com/@FlipWithRick/streams",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-4av2hbkmhh70bb48jqelvo97k3_20260519T220000Z",
+        "title": "How To Wholesale Livestream",
+        "date": "2026-05-19",
+        "time": "16:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "The public live stream that everyone tunes into. Watch real wholesaling happen in real time: cold calls, contracts, comps, and closings.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "4av2hbkmhh70bb48jqelvo97k3_20260519T220000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "4av2hbkmhh70bb48jqelvo97k3",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NGF2Mmhia21oaDcwYmI0OGpxZWx2bzk3azNfMjAyNjA1MTlUMjIwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.youtube.com/@MaximilianDier/streams",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-291jjqn8hffr0li9rs44i2k40n_20260519T230000Z",
+        "title": "Wholesailors After Hours",
+        "date": "2026-05-19",
+        "time": "17:00",
+        "duration": 180,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "Private continuation of the public How To Wholesale livestream with deeper strategy, scripts, and buy boxes.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "291jjqn8hffr0li9rs44i2k40n_20260519T230000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "291jjqn8hffr0li9rs44i2k40n",
+        "googleUrl": "https://www.google.com/calendar/event?eid=MjkxampxbjhoZmZyMGxpOXJzNDRpMms0MG5fMjAyNjA1MTlUMjMwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/CRhZpgkYpMv",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-50b4vl6qocjh022ve84trk2meu_20260520T150000Z",
+        "title": "X Marks the MAO",
+        "date": "2026-05-20",
+        "time": "09:00",
+        "duration": 60,
+        "attendees": "Google Calendar",
+        "type": "Zoom",
+        "category": "Real Estate",
+        "prepNotes": "X Marks the MAO is a live underwriting session where we comp properties, calculate the real MAO, and decide if the deal is treasure or trash.",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "50b4vl6qocjh022ve84trk2meu_20260520T150000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "50b4vl6qocjh022ve84trk2meu",
+        "googleUrl": "https://www.google.com/calendar/event?eid=NTBiNHZsNnFvY2poMDIydmU4NHRyazJtZXVfMjAyNjA1MjBUMTUwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "location": "https://www.skool.com/live/rSgmgplnG2S",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      },
+      {
+        "id": "google-35mg4ut3hp159nb84uh2270k81_20260520T190000Z",
+        "title": "Group Leader Live Meeting - Thomas Allen",
+        "date": "2026-05-20",
+        "time": "13:00",
+        "duration": 90,
+        "attendees": "Google Calendar",
+        "type": "Internal",
+        "category": "Real Estate",
+        "prepNotes": "",
+        "status": "Upcoming",
+        "agenda": [],
+        "completedAgenda": [],
+        "notes": "",
+        "actionItems": [],
+        "completedActions": [],
+        "outcome": "",
+        "source": "google",
+        "externalEventId": "35mg4ut3hp159nb84uh2270k81_20260520T190000Z",
+        "externalCalendarId": "primary",
+        "recurringEventId": "35mg4ut3hp159nb84uh2270k81",
+        "googleUrl": "https://www.google.com/calendar/event?eid=MzVtZzR1dDNocDE1OW5iODR1aDIyNzBrODFfMjAyNjA1MjBUMTkwMDAwWiBud2lsbGlhbXMuc2hvcGlmeUBt&ctz=America/Edmonton",
+        "syncedAt": "2026-05-06T18:00:00.000Z",
+        "syncStatus": "synced"
+      }
+    ],
+    "settings": {
+      "monthlyRevenueGoal": 30000,
+      "activeNoteId": "note-1778112137508-66cc96718a3148",
+      "lastDailyResetDate": "2026-05-07",
+      "businessFocus": "Personal Brand"
+    },
+    "timeline": [
+      {
+        "id": "phase1",
+        "range": "Now - 90 days",
+        "title": "Foundation Lock-In",
+        "current": true,
+        "milestones": [
+          {
+            "id": "m1",
+            "done": true,
+            "title": "Daily checklist consistently completed"
+          },
+          {
+            "id": "m2",
+            "done": true,
+            "title": "Revenue dashboard active"
+          },
+          {
+            "id": "m3",
+            "done": false,
+            "title": "Client tracking active"
+          },
+          {
+            "id": "m4",
+            "done": false,
+            "title": "Real estate calls tracked"
+          },
+          {
+            "id": "m5",
+            "done": false,
+            "title": "Content proof-of-work system running"
+          }
+        ],
+        "description": "Solidify daily execution, revenue tracking, lead flow, content rhythm, client delivery, and operating systems."
+      },
+      {
+        "id": "phase2",
+        "range": "Months 4-8",
+        "title": "Revenue Expansion",
+        "milestones": [
+          {
+            "id": "m6",
+            "done": false,
+            "title": "Increase monthly recurring revenue"
+          },
+          {
+            "id": "m7",
+            "done": false,
+            "title": "Build consistent lead flow"
+          },
+          {
+            "id": "m8",
+            "done": false,
+            "title": "Weekly content cadence stable"
+          },
+          {
+            "id": "m9",
+            "done": true,
+            "title": "AI agents supporting operations"
+          }
+        ],
+        "description": "Grow Get Right revenue, increase real estate pipeline, improve offers, and compound personal brand."
+      },
+      {
+        "id": "phase3",
+        "range": "Months 9-14",
+        "title": "Scale Systems",
+        "milestones": [
+          {
+            "id": "m10",
+            "done": false,
+            "title": "SOPs created"
+          },
+          {
+            "id": "m11",
+            "done": false,
+            "title": "Client delivery system tightened"
+          },
+          {
+            "id": "m12",
+            "done": false,
+            "title": "Pipeline reporting automated"
+          }
+        ],
+        "description": "Systemise operations, delegate repetitive work, improve dashboards, and create repeatable growth loops."
+      },
+      {
+        "id": "phase4",
+        "range": "Final stretch to Jan 1, 2027",
+        "title": "Million-Dollar Execution",
+        "milestones": [
+          {
+            "id": "m13",
+            "done": false,
+            "title": "Monthly revenue target hit"
+          },
+          {
+            "id": "m14",
+            "done": false,
+            "title": "Strong operating rhythm"
+          },
+          {
+            "id": "m15",
+            "done": false,
+            "title": "Personal brand authority built"
+          },
+          {
+            "id": "m16",
+            "done": false,
+            "title": "Lifestyle freedom plan active"
+          }
+        ],
+        "description": "Operate with high clarity, track every key metric, focus on highest income activities, and remove distractions."
+      }
+    ],
+    "checklist": [
+      {
+        "id": "wake",
+        "done": false,
+        "label": "Wake up on time",
+        "detail": "11:00 PM"
+      },
+      {
+        "id": "training",
+        "done": false,
+        "label": "Training completed",
+        "detail": "Strength"
+      },
+      {
+        "id": "cardio",
+        "done": false,
+        "label": "Cardio / steps completed",
+        "detail": "7,200 / 10K"
+      },
+      {
+        "id": "mobility",
+        "done": false,
+        "label": "Mobility completed",
+        "detail": "10 min"
+      },
+      {
+        "id": "nutrition",
+        "done": false,
+        "label": "Nutrition followed",
+        "detail": "On plan"
+      },
+      {
+        "id": "clients",
+        "done": false,
+        "label": "Client check-ins completed",
+        "detail": "0 / 5"
+      },
+      {
+        "id": "calls",
+        "done": false,
+        "label": "Real estate calls completed",
+        "detail": "4 / 10"
+      },
+      {
+        "id": "followups",
+        "done": false,
+        "label": "Lead follow-ups completed",
+        "detail": "9 / 15"
+      },
+      {
+        "id": "content",
+        "done": false,
+        "label": "Content posted",
+        "detail": "0 / 1"
+      },
+      {
+        "id": "study",
+        "done": false,
+        "label": "Study completed",
+        "detail": "Wyckoff"
+      },
+      {
+        "id": "shutdown",
+        "done": false,
+        "label": "Night shutdown completed",
+        "detail": "Pending"
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d1",
+        "date": "2026-05-06",
+        "agents": [
+          "DealCloser",
+          "Strategy Chief"
+        ],
+        "status": "Decided",
+        "summary": "Luxe conversations first, Get Right client acquisition second, content as proof-of-work.",
+        "question": "Where should this week’s execution focus go?",
+        "finalDecision": "Protect seller call volume before everything except trading."
+      },
+      {
+        "id": "d2",
+        "date": "2026-05-02",
+        "agents": [
+          "Strategy Chief"
+        ],
+        "status": "Decided",
+        "summary": "Hybrid wins: vault for memory, localStorage for fast cockpit interactions.",
+        "question": "Should Nat OS use vault or local data?",
+        "finalDecision": "Build hybrid v1."
+      }
+    ],
+    "lifeAreas": [
+      {
+        "id": "wealth",
+        "focus": "All",
+        "title": "Wealth & Revenue",
+        "vision": "Build durable income streams and move toward financial independence without losing operational control."
+      },
+      {
+        "id": "fitness",
+        "focus": "Get Right",
+        "title": "Fitness & Health",
+        "vision": "Lead from proof: strong body, consistent training, clean nutrition, and client delivery that reflects the standard."
+      },
+      {
+        "id": "real-estate",
+        "focus": "Luxe",
+        "title": "Real Estate Execution",
+        "vision": "Create consistent seller conversations, qualified leads, offers, and assignment-fee opportunities in US markets."
+      },
+      {
+        "id": "ai-systems",
+        "focus": "Nexora",
+        "title": "AI Systems & Leverage",
+        "vision": "Build AI dashboards, agents, automations, and repeatable systems that save time and create sellable assets."
+      },
+      {
+        "id": "brand",
+        "focus": "Personal Brand",
+        "title": "Personal Brand",
+        "vision": "Document disciplined execution, proof-of-work, business lessons, training, and lifestyle freedom with clarity."
+      },
+      {
+        "id": "personal",
+        "focus": "Personal",
+        "title": "Personal Life",
+        "vision": "Protect family rhythm, schedule, recovery, learning, and the operating environment that makes the mission sustainable."
+      }
+    ],
+    "priorities": [
+      {
+        "id": "p1",
+        "due": "Today",
+        "done": false,
+        "title": "Follow up with 20 motivated sellers",
+        "category": "Luxe Property Solutions"
+      },
+      {
+        "id": "p2",
+        "due": "Today",
+        "done": false,
+        "title": "Ship Get Right offer cleanup",
+        "category": "Get Right Fitness"
+      },
+      {
+        "id": "p3",
+        "due": "Today",
+        "done": false,
+        "title": "Publish proof-of-work content",
+        "category": "Personal Brand"
+      },
+      {
+        "id": "p4",
+        "due": "Today",
+        "done": false,
+        "title": "Tighten AI lead routing workflow",
+        "category": "AI Systems"
+      }
+    ],
+    "actionItems": [
+      {
+        "id": "ai-1",
+        "title": "Pull today’s Memphis seller call list",
+        "status": "Pending",
+        "category": "Luxe Property Solutions",
+        "createdDate": "2026-05-06"
+      },
+      {
+        "id": "ai-2",
+        "title": "Draft Get Right check-in message batch",
+        "status": "In Progress",
+        "category": "Get Right Fitness",
+        "createdDate": "2026-05-06"
+      },
+      {
+        "id": "ai-3",
+        "title": "Post proof-of-work content recap",
+        "status": "Complete",
+        "category": "Personal Brand",
+        "createdDate": "2026-05-06"
+      }
+    ],
+    "revenueGoal": 30000,
+    "dailyHistory": [
+      {
+        "id": "history-2026-05-06",
+        "date": "2026-05-06",
+        "score": 29,
+        "completed": 4,
+        "total": 14,
+        "carriedPriorities": 4
+      },
+      {
+        "id": "hist-1",
+        "date": "2026-05-02",
+        "score": 82,
+        "total": 11,
+        "completed": 9,
+        "carriedPriorities": 2
+      },
+      {
+        "id": "hist-2",
+        "date": "2026-05-01",
+        "score": 73,
+        "total": 11,
+        "completed": 8,
+        "carriedPriorities": 3
+      },
+      {
+        "id": "hist-3",
+        "date": "2026-04-30",
+        "score": 91,
+        "total": 11,
+        "completed": 10,
+        "carriedPriorities": 1
+      }
+    ],
+    "commandReviews": [
+      {
+        "id": "review-seed",
+        "date": "2026-05-03",
+        "stalled": "Content output and lead follow-up consistency were uneven when the day got crowded.",
+        "createdAt": "2026-05-06T12:34:03.967Z",
+        "priorities": [
+          "Make 50 seller calls across the week",
+          "Book 3 qualified seller appointments",
+          "Publish 5 proof-of-work posts",
+          "Finish Get Right offer page cleanup",
+          "Build one lead routing automation"
+        ],
+        "movedRevenue": "Seller conversations created the most direct revenue movement. Get Right offer cleanup also tightened the path to paid coaching.",
+        "killDelegateDouble": "Kill low-value tool hopping. Delegate repetitive AI formatting. Double down on Luxe calls and proof-of-work content."
+      }
+    ],
+    "revenueHistory": [
+      {
+        "id": "jan",
+        "label": "Jan",
+        "value": 0
+      },
+      {
+        "id": "feb",
+        "label": "Feb",
+        "value": 1000
+      },
+      {
+        "id": "mar",
+        "label": "Mar",
+        "value": 2200
+      },
+      {
+        "id": "apr",
+        "label": "Apr",
+        "value": 3600
+      },
+      {
+        "id": "may",
+        "label": "May",
+        "value": 5200
+      },
+      {
+        "id": "jun",
+        "label": "Jun",
+        "value": 7500,
+        "projected": true
+      }
+    ],
+    "warRoomCommands": [
+      {
+        "id": "wr-1",
+        "output": "Use a three-touch follow-up: direct SMS, softer value text, then a clear next-step close. Keep the message calm, specific, and anchored to motivation, condition, timeline, and price.",
+        "status": "Completed",
+        "agentId": "dealcloser",
+        "request": "Create a seller follow-up sequence for warm Memphis leads that have not answered in 48 hours.",
+        "category": "Luxe Property Solutions",
+        "priority": "High",
+        "agentName": "DealCloser",
+        "createdAt": "2026-05-06T12:34:03.967Z",
+        "updatedAt": "2026-05-06T12:34:03.967Z",
+        "savedTargets": [
+          "Action Item"
+        ]
+      },
+      {
+        "id": "wr-2",
+        "output": "",
+        "status": "In Progress",
+        "agentId": "contentforge",
+        "request": "Turn today’s execution into one proof-of-work post and three short hooks.",
+        "category": "Personal Brand",
+        "priority": "Medium",
+        "agentName": "ContentForge",
+        "createdAt": "2026-05-06T12:34:03.967Z",
+        "updatedAt": "2026-05-06T12:34:03.967Z",
+        "savedTargets": []
+      }
+    ],
+    "contentArticles": [
+      {
+        "id": "article-1",
+        "title": "How AI dashboards help small businesses compete",
+        "lane": "Nexora",
+        "sourceUrl": "nexora/_overview",
+        "seoKeyword": "AI dashboard for small business",
+        "excerpt": "Small businesses need clear operating visibility, automation, and agent support without enterprise complexity.",
+        "publishedAt": "2026-05-06"
+      },
+      {
+        "id": "article-2",
+        "title": "Why seller follow-up wins wholesale deals",
+        "lane": "Luxe",
+        "sourceUrl": "luxe/operations/_overview",
+        "seoKeyword": "real estate wholesaling seller follow up",
+        "excerpt": "Motivated sellers need speed, clarity, and repeated follow-up around motivation, condition, timeline, and price.",
+        "publishedAt": "2026-05-06"
+      },
+      {
+        "id": "article-3",
+        "title": "Structure beats motivation in fitness coaching",
+        "lane": "Get Right",
+        "sourceUrl": "getright/business/_overview",
+        "seoKeyword": "online fitness coaching accountability",
+        "excerpt": "Clients win when the plan is simple, accountability is direct, and the coach removes friction from execution.",
+        "publishedAt": "2026-05-06"
+      }
+    ],
+    "carouselDrafts": [
+      {
+        "id": "carousel-1",
+        "articleId": "article-1",
+        "title": "AI dashboards for small business",
+        "lane": "Nexora",
+        "status": "Design Prompt Ready",
+        "hook": "Most small businesses do not need more apps. They need one command centre.",
+        "slides": [
+          "Most SMBs are drowning in tools.",
+          "A dashboard gives the owner one source of truth.",
+          "AI agents turn insight into execution.",
+          "The win is speed, visibility, and follow-through.",
+          "Build the system once. Run it every day."
+        ],
+        "designPrompt": "Create a premium 10-slide Instagram carousel for Nat OS/Nexora. Use dark SaaS command-centre visuals, electric blue accents, clear hierarchy, sharp copy, and founder dashboard energy. Keep every slide readable on mobile.",
+        "references": "Nat OS dark SaaS style, electric blue, glass panels, disciplined founder/operator tone.",
+        "cta": "Book a 30-minute AI audit.",
+        "updatedAt": "2026-05-06T22:35:33.262Z"
+      }
+    ],
+    "youtubeBlueprints": [],
+    "subscriptions": [
+      {
+        "id": "sub-notion",
+        "name": "Notion",
+        "category": "Personal",
+        "monthlyCost": 18,
+        "renewalDate": "2026-05-13",
+        "status": "Cancel",
+        "notes": "Cancel after Nat OS replaces databases, templates, and knowledge capture."
+      },
+      {
+        "id": "sub-vercel",
+        "name": "Vercel",
+        "category": "Nexora",
+        "monthlyCost": 28,
+        "renewalDate": "2026-06-01",
+        "status": "Keep",
+        "notes": "Hosting layer for Nat OS and client-facing AI builds."
+      },
+      {
+        "id": "sub-artistly",
+        "name": "Artistly.ai",
+        "category": "Personal",
+        "monthlyCost": 0,
+        "renewalDate": "2026-12-31",
+        "status": "Keep",
+        "notes": "Owned tool with commercial licence for kids book studio assets."
+      },
+      {
+        "id": "sub-skool",
+        "name": "Skool Wholesaling Group",
+        "category": "Luxe",
+        "monthlyCost": 135,
+        "renewalDate": "2026-05-20",
+        "status": "Review",
+        "notes": "Keep only if seller-call scripts, market intel, and execution support are being used weekly."
+      }
+    ],
+    "templates": [
+      {
+        "id": "tpl-daily-review",
+        "name": "Daily Review",
+        "type": "Review",
+        "category": "Personal",
+        "description": "End-of-day execution recap with wins, misses, and tomorrow’s move.",
+        "body": "# Daily Review\n\n## Wins\n- \n\n## Misses\n- \n\n## Revenue moved\n- \n\n## Tomorrow’s next best action\n- "
+      },
+      {
+        "id": "tpl-seller-lead",
+        "name": "Luxe Seller Lead",
+        "type": "Lead",
+        "category": "Luxe",
+        "description": "MCTP capture for a motivated seller lead.",
+        "body": "Motivation:\nCondition:\nTimeline:\nPrice:\nProperty address:\nNext follow-up:"
+      },
+      {
+        "id": "tpl-client-checkin",
+        "name": "Get Right Client Check-in",
+        "type": "Note",
+        "category": "Get Right",
+        "description": "Fitness client adherence, blockers, and next action.",
+        "body": "Training:\nNutrition:\nSteps/cardio:\nWins:\nBlockers:\nCoach note:\nNext action:"
+      },
+      {
+        "id": "tpl-content-brief",
+        "name": "Proof-of-Work Content Brief",
+        "type": "Content",
+        "category": "Personal Brand",
+        "description": "Turn execution into a post, carousel, or short script.",
+        "body": "Hook:\nProof:\nLesson:\nCTA:\nRepurpose ideas:"
+      },
+      {
+        "id": "tpl-nexora-audit",
+        "name": "Nexora AI Audit",
+        "type": "Task",
+        "category": "Nexora",
+        "description": "Client audit structure for AI website, dashboard, agent, and automation opportunities.",
+        "body": "Business:\nCurrent workflow:\nBottleneck:\nAutomation opportunity:\nDashboard opportunity:\nNext build:"
+      }
+    ]
+  }
+}
